@@ -9,13 +9,39 @@
     <link rel="stylesheet" href="./styles/style.css">
   </head>
   <body>
-      <header>
-        
+      <header class="header">
+        <nav class="header__menu">
+          <ul class="header__menu-list">
+            <li class="header__menu-item  header__menu-item_active">
+              <a href="#0" class="header__menu-link header__links-list-item_no-bullit">главная</a>
+            </li>
+            <li class="header__menu-item">
+              <a href="#0" class="header__menu-link">посмотреть лоты</a>
+            </li>
+            <li class="header__menu-item">
+              <a href="#0" class="header__menu-link">об аукционе</a>
+            </li>
+          </ul>
+        </nav>
+        <a class="header__log">
+          <img src="./images/logo-black.svg" alt="Оно тебе надо" class="header__logo-image">
+        </a>
+        <address class="header__contact">
+          <a href="tel:+99995555555">+9 999 555 5555</a><br>
+          <a href="mailto:info@sobaka.ge">info@sobaka.ge</a><br>
+          наб. Принсенграхт 263- 265, Амстердам
+        </address>
       </header>
       <main>
-        <section></section>
-        <section></section>
-        <section></section>
+        <section class="cover">
+          <h1 class="cover__title">
+            <span class="accent-span text-left">Оно</span>
+            <span class="accent-span text-center">тебе</span>
+            <span class="accent-span text-right">надо</span>
+          </h1>
+        </section>
+        <section class="lots"></section>
+        <section class="about"></section>
       </main>
       <footer>
 
