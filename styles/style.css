@@ -184,7 +184,7 @@ main {
 
 .card-link {
     display: block;
-    text-decoration: none;;
+    text-decoration: none;
     height: 100%;
     position: relative;
 }
@@ -289,7 +289,7 @@ main {
     margin-bottom: 101px;
 }
 
-.about__text { 
+.about__text {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 400;
@@ -306,7 +306,7 @@ main {
 
 .about__text p:first-of-type {
     margin-bottom: 24px;
-    letter-spacing: 0.01em;   
+    letter-spacing: 0.01em;  
 }
 
 .footer {
@@ -317,13 +317,12 @@ main {
 }
 
 .footer__address {
-    font-style: normal;
     color: #000000;
     font-size: 18px;
     line-height: 24px;
     letter-spacing: 0.01em;
-    font-family: 'Raleway';
     font-style: normal;
+    font-family: 'Raleway';
     font-weight: 400;
     width: 240px;
     margin-left: 1px;
@@ -369,7 +368,7 @@ main {
 .footer__social-list {
     display: flex;
     list-style: none;
-    column-gap: 48px;;
+    column-gap: 48px;
     margin-left: 94px;
 }
 
