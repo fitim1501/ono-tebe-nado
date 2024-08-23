@@ -352,6 +352,7 @@ main {
 }
 
 .footer__menu-link {
+    text-align: center;
     text-decoration: none;
     border-bottom: 1px solid #000000;
     font-family: 'Raleway';
@@ -359,7 +360,6 @@ main {
     font-weight: 400;
     font-size: 18px;
     line-height: 21px;
-    text-align: center;
 }
 
 .footer__menu-link_active {
