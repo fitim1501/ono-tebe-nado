@@ -12,8 +12,7 @@
     grid-template-columns: 1.38fr 1fr 1fr;
     align-items: center;
     justify-items: flex-start;
-    margin-bottom: 91px;
-    background-color: bisque;
+    margin-bottom: 93px;
 }
 
 .header__menu {
