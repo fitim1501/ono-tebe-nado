@@ -12,7 +12,8 @@
     grid-template-columns: 1.38fr 1fr 1fr;
     align-items: center;
     justify-items: flex-start;
-    height: 384px;
+    margin-bottom: 91px;
+    background-color: bisque;
 }
 
 .header__menu {
@@ -306,7 +307,7 @@ main {
 
 .about__text p:first-of-type {
     margin-bottom: 24px;
-    letter-spacing: 0.01em;  
+    letter-spacing: 0.01em;
 }
 
 .footer {
