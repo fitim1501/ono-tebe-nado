@@ -12,11 +12,11 @@
     grid-template-columns: 1.38fr 1fr 1fr;
     align-items: flex-start;
     justify-items: flex-start;
-    margin-bottom: 181px;
+    margin-bottom: 92px;
 }
 
 .header__menu {
-    margin-top: 75px;
+    margin-top: 136px;
     margin-left: 51px;
 }
 
@@ -45,7 +45,7 @@
 .header__logo {
     display: block;
     width: 135px;
-    margin-top: 32px;
+    margin-top: 92px;
     margin-left: 34px;
 }
 
@@ -59,8 +59,8 @@
 }
 
 .header__position {
-    margin-top: 38px;
-    margin-left: 35px;
+    margin-top: 98px;
+    margin-left: 36px;
 }
 
 .header__address a {
@@ -153,7 +153,7 @@ main {
 }
 
 .lots {
-    margin-top: 88px;
+    margin-top: 180px;
 }
 
 .lots__heading {
