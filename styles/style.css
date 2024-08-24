@@ -86,9 +86,12 @@ main {
     text-transform: uppercase;
     position: relative;
     z-index: 2;
-    width: 1000px;
-    top: 164px;
-    left: 50px;
+    width:100%;
+    padding: 166px 51px 0 49px;
+}
+
+.cover__title span {
+    height: 124px;
 }
 
 .aligned-text {
@@ -100,14 +103,12 @@ main {
     display: block;
     letter-spacing: 0.3em;
     text-align: center;
-    margin-top: 10px;
 }
 
 .aligned-text_right {
     display: block;
     letter-spacing: 0.3em;
     text-align: right;
-    margin-top: 2px;
 }
 
 .letter-spacing-extended {
@@ -125,8 +126,7 @@ main {
     justify-content: space-between;
     column-gap: 69px;
     width: 972px;
-    top: 293px;
-    left: 79px;
+    margin: 119px 0px 0px 80px;
 }
 
 .cover__description-text {
